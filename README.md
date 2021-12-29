@@ -9,7 +9,7 @@ Duality and entanglement are perhaps the most prominent hallmarks of quantum mec
 
 **Implementation in the quantum computer**
 
-As is shown in the paper<sup>1</sup>, we have to make a quantum state that have two degrees of freedom, one for polarization and the other for paths. This objective was reached by using an ancilla qubit which is entanglement with polarization qubit to get a mixed state in polarization.
+As is shown in the paper<sup>1</sup>, I have to make a quantum state that have two degrees of freedom, one for polarization and the other for paths, this objective was reached by using an ancilla qubit which is entanglement with polarization qubit to get a mixed state in polarization. To control the polarization, I use the variable P in the entangled initial state and to control the angle $\delta$  between the bloch vector and the unitary operation I did a rotation around the X axis.
 
 **References**
 
